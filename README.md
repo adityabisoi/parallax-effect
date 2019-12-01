@@ -1,6 +1,6 @@
 # Project Title
 
-Parallex effect using rellaxJS
+Parallax effect using RellaxJS
 
 
 
