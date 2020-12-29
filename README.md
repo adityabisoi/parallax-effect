@@ -4,5 +4,5 @@ Parallax effect using RellaxJS
 
 ## Installing
 
-To run on your local machine, run ```npm start``` and point your browser to http://localhost:3000
+To run on your local machine, run ```npm start``` to install dependencies and start a server.
 
